@@ -13,3 +13,6 @@ https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
 
 * 
 
+### TODO
+
+* Finish the course by 10/12/2020
