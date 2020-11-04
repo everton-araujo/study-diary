@@ -17,7 +17,7 @@ On this one was builded the Happy application. An application to register and sh
 * React Native;
 * Typescript;
 
-### Repository: [Happy](https://github.com/everton-araujo/nwl-happy)
+### Project repository: [Happy](https://github.com/everton-araujo/nwl-happy)
 
 ### TODO
 
