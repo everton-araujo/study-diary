@@ -1,9 +1,9 @@
-# Bootcamp GoStack da Rocketseat
+# Bootcamp GoStack by Rocketseat
 
-### Iniciado em 01/09/2020
-### Concluído em 01/11/2020
+### Started at 01/09/2020
+### Finished at 01/11/2020
 
-### Tecnologias utilizadas:
+### Techs used:
 
 * Node;
 * ReactJs;
@@ -14,9 +14,9 @@
 * Redis;
 * Docker;
 
-### Repositórios desenvolvidos no bootcamp:
+### Repositories builded on the course:
 
-##### Aplicação principal:
+##### Main application:
 
 * [API goBarber](https://github.com/everton-araujo/gostack-go-barber);
 
@@ -24,3 +24,7 @@
 
 * [Mobile goBarber](https://github.com/everton-araujo/go-barber-mobile);
 
+### TODO
+
+* Create/Update the README on each repository;
+* Recreate the app with my own idea;
