@@ -1,4 +1,5 @@
 # Bootcamp GoStack by Rocketseat
+[Rocketseat](https://rocketseat.com.br/)
 
 ### Started at 09/01/2020
 ### Finished at 11/01/2020
