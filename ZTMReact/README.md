@@ -1,5 +1,5 @@
 # Zero to Mastery React 
-[Zero to Mastery](https://zerotomastery.io/)
+[Zero to Mastery](https://zerotomastery.io/) <br>
 [Course on udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
 ### Started at 11/04/20
