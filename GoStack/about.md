@@ -1,7 +1,7 @@
 # Bootcamp GoStack by Rocketseat
 
-### Started at 01/09/2020
-### Finished at 01/11/2020
+### Started at 09/01/2020
+### Finished at 11/01/2020
 
 ### Techs used:
 
