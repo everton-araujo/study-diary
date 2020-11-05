@@ -1,18 +1,15 @@
 ### Sections
 
-* <strong>Section 01: Introduction</strong> [7m] [✔]
+* <strong>Section 01: Introduction</strong> [7m] [✔] <br>
 Classes from 01 to 03
-<br>
 
-* <strong>Section 02: React Key Concepts</strong> [39m] [✔]
+* <strong>Section 02: React Key Concepts</strong> [39m] [✔] <br>
 Classes from 04 to 12
-<br>
 
-* <strong>Section 03: React Basics</strong> [4h 11m] [ ]
+* <strong>Section 03: React Basics</strong> [4h 11m] [ ] <br>
 Classes from 13 to 57
-<br>
 
-* <strong>Section 33: Appendix 1: Key Developer Concepts</strong> [1h 43m] [ ]
+* <strong>Section 33: Appendix 1: Key Developer Concepts</strong> [1h 43m] [ ] <br>
 Classes from 339 to 350
 
 ### Dates that classes were taken
