@@ -19,3 +19,4 @@ Classes from 339 to 350
 
 <strong>11/04/20</strong> - From 01 to 33, from 339 to 342 and from 346 to 350 <br>
 <strong>11/05/20</strong> - From 34 to 40 <br>
+<strong>11/06/20</strong> - From 41 to 57 <br>
