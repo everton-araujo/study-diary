@@ -2,7 +2,7 @@
 [Zero to Mastery](https://zerotomastery.io/) <br>
 [Course on udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)
 
-### Started at 11/04/20
+### Started at 04/11/20
 ### Finished at 
 
 ### About:
@@ -22,4 +22,4 @@ Check the classes log file for details on the dates that the course was taken [C
 
 ### TODO
 
-* Finish the course by 10/12/2020
+* Finish the course by 12/10/20
