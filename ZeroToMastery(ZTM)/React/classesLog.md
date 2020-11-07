@@ -6,7 +6,7 @@ Classes from 01 to 03
 * <strong>Section 02: React Key Concepts</strong> [39m] [✔] <br>
 Classes from 04 to 12
 
-* <strong>Section 03: React Basics</strong> [4h 11m] [ ] <br>
+* <strong>Section 03: React Basics</strong> [4h 11m] [✔] <br>
 Classes from 13 to 57
 
 * <strong> Section 04: Master Project: Setting Up E-Commerce Project</strong> [1h 8m] [ ] <br>
