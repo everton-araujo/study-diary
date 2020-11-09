@@ -23,8 +23,8 @@ Check the classes log file for details on the dates that the course was taken [C
 
 #### Side Applications:
 
-* [Monster Rolodex](https://github.com/everton-araujo/monsters-rolodex) <br>
-[Monster Rolodex Live Page](https://everton-araujo.github.io/monsters-rolodex/)
+[Monster Rolodex](https://github.com/everton-araujo/monsters-rolodex) <br>
+[Monster Rolodex - Live Page](https://everton-araujo.github.io/monsters-rolodex/)
 
 ### TODO
 
