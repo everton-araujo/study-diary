@@ -17,6 +17,12 @@ Check the classes log file for details on the dates that the course was taken [C
 
 ### Repositories builded on the course:
 
+#### Main Application:
+
+[Clothing E-commerce](https://github.com/everton-araujo/clothing-shop) <br>
+
+#### Side Applications:
+
 * [Monster Rolodex](https://github.com/everton-araujo/monsters-rolodex) <br>
 [Monster Rolodex Live Page](https://everton-araujo.github.io/monsters-rolodex/)
 
