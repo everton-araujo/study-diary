@@ -12,7 +12,7 @@ Classes from 13 to 57
 * <strong>Section 04: Master Project: Setting Up E-Commerce Project</strong> [1:8h] [✔] <br>
 Classes from 58 to 72
 
-* <strong>Section 05: Master Project: React Router and Routing</strong> [38m] [ ] <br>
+* <strong>Section 05: Master Project: React Router and Routing</strong> [38m] [✔] <br>
 Classes from 73 to 76
 
 * <strong>Section 06: Master Project: Forms + Components</strong> [1:5h] [ ] <br>
@@ -114,3 +114,4 @@ Class 356
 <strong>11/05/20</strong> - From 34 to 40 <br>
 <strong>11/06/20</strong> - From 41 to 57 <br>
 <strong>11/08/20</strong> - From 57 to 68 <br>
+<strong>11/09/20</strong> - From 69 to 82 <br>
