@@ -13,7 +13,9 @@ Check the classes log file for details on the dates that the course was taken [C
 ### Techs used:
 
 * Node;
-* ReactJS;
+* React;
+* SASS;
+* Firebase;
 
 ### Repositories builded on the course:
 
@@ -21,7 +23,7 @@ Check the classes log file for details on the dates that the course was taken [C
 
 [Clothing E-commerce](https://github.com/everton-araujo/clothing-shop) <br>
 
-#### Side Applications:
+#### Side Application:
 
 [Monster Rolodex](https://github.com/everton-araujo/monsters-rolodex) <br>
 [Monster Rolodex - Live Page](https://everton-araujo.github.io/monsters-rolodex/)

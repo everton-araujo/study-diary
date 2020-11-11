@@ -15,7 +15,7 @@ Classes from 58 to 72
 * <strong>Section 05: Master Project: React Router and Routing</strong> [38m] [✔] <br>
 Classes from 73 to 76
 
-* <strong>Section 06: Master Project: Forms + Components</strong> [1:5h] [ ] <br>
+* <strong>Section 06: Master Project: Forms + Components</strong> [1:5h] [✔] <br>
 Classes from 77 to 85
 
 * <strong>Section 07: Master Project: Firebase + User Authentication</strong> [1:43h] [ ] <br>
@@ -45,7 +45,7 @@ Classes from 155 to 159
 * <strong>Section 15: Master Project: CSS in JS - styled-components</strong> [51m] [ ] <br>
 Classes from 160 to 166
 
-* <strong>Section 16: Master Project: Advanced Redux + Firebase</strong> [1:9h] [ ] <br>
+* <strong>Section 16: Master Project: Advanced Redux + Firebase</strong> [1:09h] [ ] <br>
 Classes from 167 to 176
 
 * <strong>Section 17: Master Project: HOC Patterns</strong> [39m] [ ] <br>
@@ -115,3 +115,4 @@ Class 356
 <strong>11/06/20</strong> - From 41 to 57 <br>
 <strong>11/08/20</strong> - From 57 to 68 <br>
 <strong>11/09/20</strong> - From 69 to 82 <br>
+<strong>11/10/20</strong> - From 83 to 94 <br>
