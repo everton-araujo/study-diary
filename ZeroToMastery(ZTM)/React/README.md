@@ -8,7 +8,7 @@
 ### About:
 This course will guide through the beginning of react to advanced concepts.
 
-Check the classes log file for details on the dates that the course was taken [Classes log](https://github.com/everton-araujo/study-diary/blob/main/ZeroToMastery(ZTM)/React/classesLog.md).
+Check the classes log file for details on the dates that the classes was taken [Classes log](https://github.com/everton-araujo/study-diary/blob/main/ZeroToMastery(ZTM)/React/classesLog.md).
 
 ### Techs used:
 
