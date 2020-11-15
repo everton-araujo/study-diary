@@ -18,7 +18,7 @@ Classes from 73 to 76
 * <strong>Section 06: Master Project: Forms + Components</strong> [1:5h] [✔] <br>
 Classes from 77 to 85
 
-* <strong>Section 07: Master Project: Firebase + User Authentication</strong> [1:43h] [ ] <br>
+* <strong>Section 07: Master Project: Firebase + User Authentication</strong> [1:43h] [✔] <br>
 Classes from 86 to 104
 
 * <strong>Section 08: Master Project: Redux 1</strong> [3:33h] [ ] <br>
@@ -116,3 +116,5 @@ Class 356
 <strong>11/08/20</strong> - From 57 to 68 <br>
 <strong>11/09/20</strong> - From 69 to 82 <br>
 <strong>11/10/20</strong> - From 83 to 94 <br>
+<strong>11/12/20</strong> - From 95 to 96 <br>
+<strong>11/14/20</strong> - From 97 to 104 <br>
