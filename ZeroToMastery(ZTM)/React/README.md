@@ -16,6 +16,7 @@ Check the classes log file for details on the dates that the classes were taken 
 * React;
 * SASS;
 * Firebase;
+* Redux;
 
 ### Repositories builded on the course:
 

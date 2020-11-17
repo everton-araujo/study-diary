@@ -118,3 +118,4 @@ Class 356
 <strong>11/10/20</strong> - From 83 to 94 <br>
 <strong>11/12/20</strong> - From 95 to 96 <br>
 <strong>11/14/20</strong> - From 97 to 104 <br>
+<strong>11/16/20</strong> - From 105 to 109 <br>
